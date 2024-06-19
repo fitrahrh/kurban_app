@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62191359724",
+    "project_id": "kurban-app",
+    "storage_bucket": "kurban-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62191359724:android:91f8f4d6f349e75949f7c9",
+        "android_client_info": {
+          "package_name": "com.example.kurbanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKa4nRu8fCMxqfTXbrc0YeaqCmIaNgNrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
